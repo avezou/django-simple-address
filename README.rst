@@ -13,6 +13,8 @@ Quick start
     Make sure django-localflavor is installed and added to your INSTALLED_APPS
 
 2. Install with pip install django-simple-address
+   Or clone (or download) the repository and run python setup.py install to
+   install the app (preferably in virtualenv).
 
 3. Add "simple-address" to your INSTALLED_APPS setting like this::
 
